@@ -67,11 +67,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Desc
 
-- **change .env.example to .env
-- **change name database : test_gci
-- **run php artisan migrate
-- **input manual barang di tabel barang
-- **run composer install
-- **run npm install
-- **run npm run dev
-- **run php artisan serve
+- change .env.example to .env
+- change name database : test_gci
+- run php artisan migrate
+- input manual barang di tabel barang
+- run composer install
+- run npm install
+- run npm run dev
+- run php artisan serve
